@@ -283,7 +283,7 @@ margin-right: 76px;
 .section-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     text-transform: capitalize;
     text-align: center;
     letter-spacing: 0.02em;
@@ -415,9 +415,10 @@ border-radius: 0px 0px 4px 4px;
     align-items: baseline;
   }
 
-.social-medial {
+/* .social-medial {
     margin-left: 120px;
-}
+   
+} */
 
 
 .media-item-footer {
@@ -428,9 +429,9 @@ border-radius: 0px 0px 4px 4px;
     display: block;
 }
 
-/* .footer-list {
+.footer-list {
     margin-right: 120px;
-} */
+}
 
 .footer-next { 
     padding-top: 100px;
